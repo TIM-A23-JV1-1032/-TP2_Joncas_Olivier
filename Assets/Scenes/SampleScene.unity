@@ -1492,7 +1492,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 191900, guid: d0537ce598334184eb00faa790e2d8be, type: 3}
       propertyPath: m_Name
-      value: snowman_01 (1)
+      value: That one snow man is looking at you...
       objectReference: {fileID: 0}
     - target: {fileID: 454948, guid: d0537ce598334184eb00faa790e2d8be, type: 3}
       propertyPath: m_RootOrder
