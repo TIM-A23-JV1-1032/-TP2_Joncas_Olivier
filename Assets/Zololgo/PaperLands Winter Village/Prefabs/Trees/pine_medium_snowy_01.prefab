@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3387014}
   - component: {fileID: 2315024}
   - component: {fileID: 913334998475063798}
+  - component: {fileID: -3659019220371448473}
   m_Layer: 0
   m_Name: pine_medium_snowy_01
   m_TagString: Untagged
@@ -87,6 +88,27 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &913334998475063798
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152416}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.84245, y: 10.215258, z: 4.9041586}
+  m_Center: {x: 0.005470991, y: 4.1757097, z: -0.018556476}
+--- !u!65 &-3659019220371448473
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

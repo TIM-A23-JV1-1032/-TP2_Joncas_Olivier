@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3340072}
   - component: {fileID: 2314888}
   - component: {fileID: 5454797583099869036}
+  - component: {fileID: -5362812911486994242}
   m_Layer: 0
   m_Name: church_nightlights
   m_TagString: Untagged
@@ -93,6 +94,27 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &5454797583099869036
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123950}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 11.171448, y: 22.890804, z: 15.30348}
+  m_Center: {x: 0.09644604, y: 9.174318, z: 0.846061}
+--- !u!65 &-5362812911486994242
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

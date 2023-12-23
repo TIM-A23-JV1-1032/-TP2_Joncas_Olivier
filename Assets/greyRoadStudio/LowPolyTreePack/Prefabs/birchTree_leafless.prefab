@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23463164656403728}
   - component: {fileID: 64465819217667424}
   - component: {fileID: 8036977623429015217}
+  - component: {fileID: -8273984100793548697}
   m_Layer: 0
   m_Name: birchTree_leafless
   m_TagString: Untagged
@@ -108,6 +109,27 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 05bac68c5ab8b3d4a89f1030377162ab, type: 3}
 --- !u!65 &8036977623429015217
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983694637467298}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 3.239015, y: 5.276509, z: 3.2811036}
+  m_Center: {x: 0.03612405, y: 2.6382544, z: -0.055479765}
+--- !u!65 &-8273984100793548697
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

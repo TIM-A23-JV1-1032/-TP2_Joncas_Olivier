@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3306164}
   - component: {fileID: 2325912}
   - component: {fileID: -1640747210261108323}
+  - component: {fileID: 2483311849162291949}
   m_Layer: 0
   m_Name: house_simple_nightlights_01
   m_TagString: Untagged
@@ -93,6 +94,27 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &-1640747210261108323
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 157488}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 6.51937, y: 9.057079, z: 8.686073}
+  m_Center: {x: -0.056277037, y: 2.3877375, z: -0.028606415}
+--- !u!65 &2483311849162291949
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
