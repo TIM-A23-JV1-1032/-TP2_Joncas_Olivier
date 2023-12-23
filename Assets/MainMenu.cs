@@ -1,15 +1,14 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.SceneManagement;
-
 
 public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
-
     {
-        public void Démarrer
+        SceneManager.LoadSceneAsync(1);
     }
+
 }
