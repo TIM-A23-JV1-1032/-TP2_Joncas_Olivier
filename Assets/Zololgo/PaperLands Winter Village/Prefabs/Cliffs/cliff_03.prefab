@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2373874}
   - component: {fileID: 7926128724016525625}
   - component: {fileID: 6642358109372535800}
+  - component: {fileID: -5001565546148809841}
   m_Layer: 0
   m_Name: cliff_03
   m_TagString: Untagged
@@ -107,6 +108,27 @@ BoxCollider:
   m_Size: {x: 9.46714, y: 12.281541, z: 7.958717}
   m_Center: {x: 0.14842057, y: 0.95080566, z: -0.48627543}
 --- !u!65 &6642358109372535800
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 190376}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 9.46714, y: 12.281541, z: 7.958717}
+  m_Center: {x: 0.14842057, y: 0.95080566, z: -0.48627543}
+--- !u!65 &-5001565546148809841
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
