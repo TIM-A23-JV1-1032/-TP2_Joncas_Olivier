@@ -4866,7 +4866,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4160122156307190861, guid: c0ac2e2fe40bdca47b99b7c57a007659, type: 3}
       propertyPath: m_Name
-      value: Hache (1)
+      value: Hache sur arbre
       objectReference: {fileID: 0}
     - target: {fileID: 4701257430068606563, guid: c0ac2e2fe40bdca47b99b7c57a007659, type: 3}
       propertyPath: m_RootOrder
@@ -7476,7 +7476,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4160122156307190861, guid: c0ac2e2fe40bdca47b99b7c57a007659, type: 3}
       propertyPath: m_Name
-      value: Hache
+      value: Hache sur arbe abattu
       objectReference: {fileID: 0}
     - target: {fileID: 4701257430068606563, guid: c0ac2e2fe40bdca47b99b7c57a007659, type: 3}
       propertyPath: m_RootOrder
